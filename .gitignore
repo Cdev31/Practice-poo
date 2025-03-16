@@ -1,0 +1,5 @@
+.vscode
+c#/**/bin
+c#/**/obj
+/node_modules
+/wwwroot/node_modules

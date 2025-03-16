@@ -1,0 +1,38 @@
+Fundamentos POO (Programacion Orientada a Objetos)
+
+Antes de POO, los principales paradigmas de programacion era la: Programacion 
+imperativa y estructura, siendo que en la programacion imperativa se basaba 
+en instrucciones secuenciales usando 'if, for, while, etc', esta en programas
+grandes generaba problemas en mantenimiento o codigo espagueti en cambio
+la programacion estructurada introducida por Edsger Dijkstra usa funciones y 
+modulos reutilizables para evitar el uso excesivo de GOTO
+
+GOTO: esta es una instruccion en varios lenguajes que permite saltar directamente
+a otra parte del codigo usando etiquetas.
+
+La POO surgio con Simula 67 que es un lenguaje de programacion que se utilizaba
+para la simulacion; este fue desarrollado por Ole-Johan Dahl y Kristen Nygaard
+los cuales buscaban heterogeneidad en la forma de construir sistemas. Esto dio
+inicio a la creacion de lenguajes orientados a objetos en la posterioridad.
+
+La POO resuelve el problema de reutilizacion de codigo limitada y ayuda a modelar
+problemas reales que tienen dificultad de modelar, este se basa en 4 principios:
+
+1-Encapsulamiento: es la capacidad de ocultar la implementacion detallada de un 
+objeto detras de una interfaz publica.
+
+2-Herencia: Esta es la que permite la crecion de objetos a partir de otros objetos. 
+
+3-Polimorfismo: Es la capacidad de un objeto de tener comportamientos diferentes 
+dependiendo del tipo del que sea.
+
+4-Abstraccion:e basa en la capacidad de conceptualizar un objeto enfocándose en sus 
+características esenciales, ocultando los detalles de implementación y exponiendo solo
+lo necesario para su uso.
+
+LENGUAJES BASADOS EN POO:
+
+-JAVA
+-C#
+-JAVASCRIPT (Basado en prototipos aunque implementa POO)
+-PYTHON
